@@ -1,0 +1,14 @@
+.description{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: blanchedalmond;
+    color: black;
+    padding: 20px;
+    border: chocolate;
+    border-radius: 20px;
+
+}
+.title{
+    padding: 5px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
